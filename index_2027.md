@@ -46,12 +46,12 @@ __Full-Time Missionary__, Hungary
 
 ## Skills
 
-- Programming Languages: C++ (Intermediate), C# (Intermediate), Python (Intermediate),
+- __Programming Languages:__ C++ (Intermediate), C# (Intermediate), Python (Intermediate),
 Clojure (Beginner), JavaScript (Beginner)
-- Game Engines: Unity (Intermediate), Unreal Engine 4 (Beginner)
-- Software: Wondershare Filmora X (Intermediate), GitHub (Intermediate), 
+- __Game Engines:__ Unity (Intermediate), Unreal Engine 4 (Beginner)
+- __Software:__ Wondershare Filmora X (Intermediate), GitHub (Intermediate), 
 Visual Studio Code (Intermediate), IntelliJ (Intermediate), Android Studio (Intermediate)
-- Languages: Chinese (Beginner), Spanish (Intermediate), Japanese (Intermediate), Hungarian (Fluent)
+- __Languages:__ Chinese (Beginner), Spanish (Intermediate), Japanese (Intermediate), Hungarian (Fluent)
 
 <!-- ### Footer
 
