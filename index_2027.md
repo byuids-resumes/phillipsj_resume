@@ -6,7 +6,7 @@ title: Resume (Joshua Phillips)
 Jr. Game Designer
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="josh.phillipsrhyto@gmail.com">josh.phillipsrhyto@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
   <a href="https://www.linkedin.com/in/joshua-phillips-492b89136/">LinkedIn</a>
   <a href="https://github.com/byuids-resumes">BYUI-Resumes</a>
