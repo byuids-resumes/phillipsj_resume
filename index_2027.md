@@ -32,7 +32,7 @@ __Warwick Valley High School__, Warwick, NY
 
 ### Mobile App Development
 
-`April 2027 - June 2027`
+`April 2020 - July 2020`
 __PocketBots__, Developer & QA Tester
 
 - Decided what product the team would create.
@@ -44,7 +44,10 @@ __PocketBots__, Developer & QA Tester
 `2016-2018`
 __Full-Time Missionary__, Hungary
 
+## Skills
 
+- Programming Languages: C++ (Intermediate), C# (Intermediate), Python (Intermediate),
+Clojure (Beginner), JavaScript (Beginner)
 
 <!-- ### Footer
 
