@@ -29,22 +29,12 @@ __Warwick Valley High School__, Warwick, NY
 
 ## Related Experience
 
-### Mobile App Development
-
-`April 2020 - July 2020`
-__PocketBots__, Developer & QA Tester
-
-- Decided what product the team would create.
-- Implemented BGM and SFX for the application.
-- Emulated the product using Android Studio for quality assurance.
-
 ## Skills
 
 - __Programming Languages:__ C++ (Intermediate), C# (Intermediate), Python (Intermediate),
 Clojure (Beginner), JavaScript (Beginner)
-- __Game Engines:__ Unity (Intermediate), Unreal Engine 4 (Beginner)
-- __Software:__ Wondershare Filmora X (Intermediate), GitHub (Intermediate), 
-Visual Studio Code (Intermediate), IntelliJ (Intermediate), Android Studio (Intermediate)
+- __Software:__ GitHub (Intermediate), Visual Studio Code (Intermediate), 
+IntelliJ (Intermediate), Android Studio (Intermediate)
 - __Languages:__ Chinese (Beginner), Spanish (Intermediate), Japanese (Intermediate), Hungarian (Fluent)
 
 <!-- ### Footer
