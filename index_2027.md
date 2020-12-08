@@ -22,11 +22,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Current GPA: 3.56
 
-`Class of 2014`
-__Warwick Valley High School__, Warwick, NY
-
-- 3.0 GPA
-
 ## Related Experience
 
 ## Skills
