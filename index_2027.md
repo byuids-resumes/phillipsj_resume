@@ -27,7 +27,6 @@ __Warwick Valley High School__, Warwick, NY
 
 - 3.0 GPA
 
-
 ## Related Experience
 
 ### Mobile App Development
@@ -38,11 +37,6 @@ __PocketBots__, Developer & QA Tester
 - Decided what product the team would create.
 - Implemented BGM and SFX for the application.
 - Emulated the product using Android Studio for quality assurance.
-
-## Service and Work History
-
-`2016-2018`
-__Full-Time Missionary__, Hungary
 
 ## Skills
 
