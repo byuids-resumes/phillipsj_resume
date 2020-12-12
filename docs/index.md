@@ -1,6 +1,6 @@
 ---
-layout: resume
-title: Resume (Joshua Phillips)
+#layout: resume
+#title: Resume (Joshua Phillips)
 ---
 # Joshua Alexander Phillips
 Computer Science Student
