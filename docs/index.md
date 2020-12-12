@@ -22,7 +22,16 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Current GPA: 3.56
 
-## Related Experience
+Relevant Coursework:
+
+- Introduction to Technical Teamwork (Communication)
+- Programming Building Blocks (Python)
+- Programming With Functions (C++)
+- JavaScript Programming Language
+- Programming With Classes (C++)
+- Applied Programming (Java)
+- Data Science Programming (Python)
+- Designing Data Structures (C++)
 
 ## Computer Science Lead
 
