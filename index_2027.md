@@ -24,6 +24,15 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
+## Computer Science Lead
+
+`April 2020 - July 2020` _PocketBots_, __Project Lead__
+- Encouraged members to engage in the development of a mobile video game
+- Communicated 2-3 times a week via Zoom Calls.
+- Implemented music and sound effects via Android Studio
+- Playtested the product 200+ times for quality assurance
+
+
 ## Skills
 
 - __Programming Languages:__ C++ (Intermediate), C# (Intermediate), Python (Intermediate),
