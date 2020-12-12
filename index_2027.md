@@ -3,7 +3,7 @@ layout: resume
 title: Resume (Joshua Phillips)
 ---
 # Joshua Alexander Phillips
-Jr. Game Designer
+Computer Science Student
 
 <div id="webaddress">
 <a href="josh.phillipsrhyto@gmail.com">josh.phillipsrhyto@gmail.com</a>
