@@ -1,11 +1,5 @@
 ---
 layout: resume
-
-markdown:   kramdown
-style:  davewhipp
-
-theme: jekyll-theme-midnight
-
 title: Resume (Joshua Phillips)
 ---
 # Joshua Alexander Phillips
