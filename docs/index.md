@@ -7,7 +7,7 @@ Computer Science Student
 
 <div id="webaddress">
 <a href="josh.phillipsrhyto@gmail.com">josh.phillipsrhyto@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="https://byuidatascience.github.io/development.html#Computer_Science_Department_Changes">Computer Science Program</a>
 | <a href="https://www.linkedin.com/in/joshua-phillips-492b89136/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes/phillipsj_resume">BYUI-Resumes</a>
 </div>
